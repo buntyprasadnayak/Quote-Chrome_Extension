@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(133, 97, 190);
+    width: 20rem !important;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .card {
+     
+    padding: 0;
+    margin: 0;
+  }
+  .card-body {
+      color: #fff;
+      text-align: center !important;
+      font-size: 15px !important;
+      width: 100% !important;
+      
+  }
